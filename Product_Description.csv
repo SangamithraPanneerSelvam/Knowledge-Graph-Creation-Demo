@@ -1,0 +1,103 @@
+S.NO,Product Description
+1,Alexa is a virtual assistant by Amazon
+2,Alexa is an AI technology developed by Amazon. 
+3,Alexa is capable of voice interaction. 
+4,"Alexa can provide weather, traffic, sports, and other real-time information. "
+5,Alexa can also control several smart devices using itself as a home automation system. 
+6,"Users are able to extend the Alexa capabilities by installing ""skills"" such as weather programs. "
+7,Devices with Alexa allow users to activate the device using a wake-word such as Alexa
+8,"Amazon has more than 10,000 employees working on Alexa and related products. "
+9,Echo Studio became the first smart speaker with 360 sound and Dolby sound
+10,New devices included an Echo dot with a clock behind the fabric.
+11,Alexa was inspired by the computer voice and conversation system on board the Starship Enterprise in science fiction TV series and movies. 
+12,Amazon developers chose the name Alexa because it has a hard consonant with the X
+13,The hard consonant helps it be recognized with higher precision. 
+14,Amazon has said the name is reminiscent of the Library of Alexandria 
+15,Amazon opened its first Alexa-themed pop-up shop inside of Toronto?s Eaton Centre. 
+16,The shop showcased the use of home automation products with Amazon's smart speakers.
+17,Amazon also sells Alexa devices at Amazon Books stores throughout the United States. 
+18,"A companion app is available from the Apple AppStore, Google Play, and Amazon Appstore "
+19,"The app can be used by owners of Alexa-enabled devices to install skills, control music, manage alarms, and view shopping lists."
+20,The app also allows users to review the recognized text on the app screen and to send feedback to Amazon concerning whether the recognition was good or bad. 
+21,A web interface is also available to set up compatible devices.
+22,"Alexa can perform a number of preset functions out-of-the-box such as set timers, share the current weather, create lists. "
+23,Users say a designated wake word to alert an Alexa-enabled device of an ensuing function command. 
+24,"Alexa listens for the command and performs the appropriate function, or skill, to answer a question or command. "
+25,"When questions are asked, Alexa converts sound waves into text which allows it to gather information from various sources. "
+26,"The data gathered is then sometimes passed to a variety of sources including WolframAlpha, iMDB, AccuWeather, Yelp, Wikipedia and others to generate suitable and accurate answers."
+27,Alexa-supported devices can stream music from the owner's Amazon Music accounts 
+28,Alexa can play music from streaming services such as Apple Music and Google Play Music from a phone or tablet.
+29,Alexa can also perform additional functions through third-party skills that users can enable.
+30,"Amazon has over 90,000 functions available for users to download on their Alexa-enabled devices. "
+31,"In the home automation space, Alexa can interact with devices from several manufacturers worldwide. "
+32,"In the Home Automation feature, developers are able to create their own smart home skills using the Alexa Skills Kit. "
+33,Amazon recently announced a microwave oven that can be paired and controlled with an Echo device. 
+34,The oven is sold under Amazon's AmazonBasics label.
+35,Alexa can now pair with a Ring doorbell Pro and greet visitors. 
+36,Alexa can also leave instructions about where to deliver packages.
+37,Take-out food can be ordered using Alexa. 
+38, Few years back Starbucks announced a private beta for placing pick-up orders using Alexa.
+39,Users can order meals using Amazon Prime Now via Alexa in 20 major US cities.
+40,"With Amazon Key, Alexa also works together with the smart lock and the Alexa Cloud Cam. "
+41,This technology allows Amazon couriers to unlock customers' front doors and deliver packages inside. 
+42,Alexa supports a multitude of subscription-based and free streaming services on Amazon devices. 
+43,Alexa is able to stream media and music directly. 
+44,Linking the Alexa's device to the Amazon account enables access to one's Amazon Music library. 
+45,"Amazon Prime members have an additional ability to access stations, playlists, and over two million songs free of charge. "
+46,Amazon Music Unlimited subscribers also have access to a list of millions of songs.
+47,"Amazon Music for PC allows one to play personal music from Google Play, iTunes, and others on an Alexa device. "
+48,Up to 250 songs can be uploaded free of charge. 
+49,Alexa can play this music and control playback through voice command options once songs are uploaded. 
+50,Amazon Alexa allows the user to hear updates on supported sports teams.
+51,Once the sports teams are added to the list created under Alexa's Sports Update app section it is possible to access this feature. 
+52,There are a number of ways messages can be sent from Alexa's application. 
+53,"Alexa can deliver messages to a recipient's Alexa application, as well as to all supported Echo devices associated with their Amazon account. "
+54,Alexa can send typed messages only from Alexa's app. 
+55,"If one sends a message from an associated Echo device, it transmits as a voice message. "
+56,Alexa cannot send attachments such as videos and photos. 
+57,"For households with more than one member, one's Alexa contacts are pooled across all of the devices that are registered to its associated account. "
+58,"When accessed and supported by an Alexa app or Echo device, Alexa messaging is available to anyone in one's household. "
+59,These messages can be heard by anyone with access to the household. 
+60,This messaging feature does not yet contain a password protection. 
+61,Anyone who has access to one's cell phone number is able to use this feature to contact them through their supported Alexa app or Echo device. 
+62,The feature to block alerts for messages and calls is available temporarily by utilizing the Do Not Disturb feature.
+63,Alexa for Business is a paid subscription service allowing companies to use Alexa to join conference calls and schedule meeting rooms. 
+64,The digital assistant can notify the user when a severe weather warning is issued in that area.
+65,"Alexa can update the users about their commute, traffic conditions or directions."
+66,Alexa can also send the information to the user's phone.
+67,Amazon allows developers to build and publish skills for Alexa using the Alexa Skills Kit known as Alexa Skills.
+68,The third-party-developed skills are available across Alexa-enabled devices. 
+69,Users can enable these skills using the Alexa app.
+70,"A Smart Home Skill API is available, meant to be used by hardware manufacturers to allow users to control smart home devices. "
+71,"Most skills run code almost entirely in the cloud, using Amazon?s AWS Lambda service."
+72,"Amazon launched Blueprints, a tool for individuals to build skills for their personal use."
+73,Amazon further expanded the capability of Blueprints by allowing customers to publish skills they've built with the templates to its Alexa Skill Store in the US. 
+74,These skills can be used by anyone with an Alexa-enabled device.
+75,Amazon allows device manufacturers to integrate Alexa voice capabilities into their own connected products by using the Alexa Voice Service (AVS). 
+76,Alexa Voice Service is a cloud-based service that provides APIs to interface with Alexa. 
+77,Products built using AVS have access to Alexa's growing list of capabilities including all of the Alexa Skills. 
+78,AVS provides cloud-based automatic speech recognition (ASR) and natural language understanding (NLU). 
+79,There are no fees for companies looking to integrate Alexa into their products by using AVS. 
+80,The voice of Amazon Alexa is generated by a long short-term memory artificial neural network. 
+81,Alexa was able to help its users apply to jobs at McDonald?s using voice recognition services. 
+82,It is the world's first employment service using voice command service.
+83,Amazon announced that Alexa will soon be able to mimic celebrities voices costing $0.99 for each voice.
+84,"Recently, Alexa has also started replying to Spanish voice commands in Spanish."
+85,Amazon has also announced that they would make the speech recognition and natural language processing technology behind Alexa available for developers under the name of Amazon Lex. 
+86,"Amazon Lex service would allow developers to create their own chatbots that can interact in a conversational manner, similar to that of Alexa. "
+87,"Along with the connection to various Amazon services, the initial version will provide connectivity to Facebook Messenger. "
+88,There are concerns about the access Amazon has to private conversations in the home
+89,There are also concerns about non-verbal indications that can identify who is present in the home with non-stop audio pick-up from Alexa-enabled devices.
+90,Amazon responds to these concerns by stating that the devices only stream recordings from the user's home when the 'wake word' activates the device.
+91,Amazon uses past voice recordings sent to the cloud service to improve responses to future questions. 
+92,Users can delete voice recordings that are associated with their account.
+93,Alexa uses an address stored in the companion app when it needs a location.
+94,Alexa uses the user's location to respond to requests for nearby restaurants or stores. 
+95,"Similarly, Alexa uses the user's location for mapping-related requests."
+96,"Amazon retains digital recordings of users' audio spoken after the ""wake word"". "
+97,"The audio recordings are subject to demands by law enforcement, government agents, and other entities via subpoena. "
+98,"Amazon publishes some information about the warrants, subpoenas and warrant-less demands it receives."
+99,Echo could be connected and used to control a Tesla car. 
+100,Some journalists voiced concerns about such levels of connectivity as it could be abused and used by hackers to take control of the car.
+101,Alexa has been known to listen in on private conversation and store personal information which was hacked and sent to the hacker. 
+102,"Although Amazon has announced that this was a rare occurrence, Alexa shows the dangers of using technology and sharing private information with robotics."
